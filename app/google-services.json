@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782096064726",
+    "project_id": "inner-join-64b64",
+    "storage_bucket": "inner-join-64b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782096064726:android:65c01b593be43aa0c8a977",
+        "android_client_info": {
+          "package_name": "com.example.courutines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782096064726-blm3mdmj4argf77v3tm3jgu6nvlp1f5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9nULuggc3dGfTqXOBeYIrUdoAvn0XZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782096064726-blm3mdmj4argf77v3tm3jgu6nvlp1f5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
